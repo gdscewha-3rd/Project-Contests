@@ -5,6 +5,7 @@
 - 해당 플랫폼에서 바로 팀 모집
 - 후기 작성 기능
 
+<br>
 
 ## 사용 예정 Stack
 React, Springboot
